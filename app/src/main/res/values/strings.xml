@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercicio Android Calculadora</string>
+    <string name="botao_cal">Calcular</string>
+    <string name="espaco"> </string>
+    <string name="resultado">Resultado: </string>
+    <string name="op_erro">Operação não reconhecida!</string>
+    <string name="vazio_erro">Um ou mais campos foram deixados vazios!</string>
+    <string name="num_erro">Um ou mais números inválidos!</string>
+    <string name="div_zero_erro">Divisão por zero!</string>
+</resources>
